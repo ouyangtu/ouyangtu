@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Who, What, Why
+My work and interest focus on enabling meaningful services via effective, efficient, and trustworthy automation and intelligence.
 
 ## Personal Updates👋
 * Jan 2024: Membership inference attack against ML models, a work under collaboration with Prof. An Wang's lab at Case Western Reserve University, is published to arxiv: [Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks](https://arxiv.org/abs/2401.04929)
