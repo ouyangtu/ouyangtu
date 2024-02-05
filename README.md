@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Personal Updates👋
-* Membership inference attack against ML models, a work under collaboration with Prof. An Wang's lab at Case Western Reserve University, is published to arxiv: [Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks](https://arxiv.org/abs/2401.04929)
+* Jan 2024: Membership inference attack against ML models, a work under collaboration with Prof. An Wang's lab at Case Western Reserve University, is published to arxiv: [Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks](https://arxiv.org/abs/2401.04929)
 
 
 
