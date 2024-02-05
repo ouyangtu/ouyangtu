@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ouyangtu/ouyangtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Personal Updates👋
+* Membership inference attack against ML models, a work under collaboration with Prof. An Wang's lab at Case Western Reserve University, is published to arxiv: [Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks](https://arxiv.org/abs/2401.04929)
+
+
+
