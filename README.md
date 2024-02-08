@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Who, What, Why
-My work and interest focus on enabling meaningful services via effective, efficient, and trustworthy automation and intelligence.
+Tu Ouyang: My work and interests focus on enabling meaningful services via effective, efficient, and trustworthy automation and intelligence.
+[My Google Scholar profile](https://scholar.google.com/citations?user=FkSf_VQAAAAJ&hl=en)
 
 ## Personal Updates👋
 * Jan 2024: A new approach of membership inference attack against ML models, work in collaboration with Prof. An Wang's lab at Case Western Reserve University, published to arXiv: [Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks](https://arxiv.org/abs/2401.04929)
