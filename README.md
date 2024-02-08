@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Who, What, Why
-Tu Ouyang
+Tu Ouyang (欧阳图)
 * My work and interests focus on enabling meaningful services via effective, efficient, and trustworthy automation and intelligence
 * [My Google Scholar profile](https://scholar.google.com/citations?user=FkSf_VQAAAAJ&hl=en)
 * [My professional profile](https://www.linkedin.com/in/tuouyang)
