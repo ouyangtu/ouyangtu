@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Who, What, Why
+## Who, what, why
 Tu Ouyang (欧阳图)
 * My work and interests focus on enabling meaningful services via effective, efficient, and trustworthy automation and intelligence
 * [My Google Scholar profile](https://scholar.google.com/citations?user=FkSf_VQAAAAJ&hl=en)
