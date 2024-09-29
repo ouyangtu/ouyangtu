@@ -19,7 +19,7 @@ Tu Ouyang (欧阳图)
 * [My professional profile](https://www.linkedin.com/in/tuouyang)
 
 ## Personal updates👋
-* Sep 2024: A poster presentation is presented at Stanford Trust and Safety research conference 2024: [Beyond the Regular Benchmarks: Evaluate Large Foundation Models’ Potential Usage
+* Sep 2024: A poster was presented at Stanford Trust and Safety Research Conference 2024: [Beyond the Regular Benchmarks: Evaluate Large Foundation Models’ Potential Usage
 in Adversarial Activities](https://github.com/CWRU-Network-Lab/fm4risk/blob/main/publications/Stanford%20T%26S%202024%20poster%20-%20CWRU.pdf)
 * Jan 2024: A new approach of membership inference attack against ML models, work in collaboration with Prof. An Wang's lab at Case Western Reserve University, accepted by IEEE Euro Symposium on Security and Privacy 2024. arXiv version: [Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks](https://arxiv.org/abs/2401.04929)
 * Apr 2023: A blog post on a method of leveraging patent data for prediction of industrial evolvement: [基于海量专利数据对产业发展进行预测的算法对比](https://github.com/ziliantech-org/doc-zilian-wiki/wiki/%E5%9F%BA%E4%BA%8E%E6%B5%B7%E9%87%8F%E4%B8%93%E5%88%A9%E6%95%B0%E6%8D%AE%E5%AF%B9%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E8%BF%9B%E8%A1%8C%E9%A2%84%E6%B5%8B%E7%9A%84%E7%AE%97%E6%B3%95%E5%AF%B9%E6%AF%94)
